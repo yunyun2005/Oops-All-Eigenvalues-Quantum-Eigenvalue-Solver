@@ -1,4 +1,6 @@
 # Oops-All-Eigenvalues-Quantum-Eigenvalue-Solver
+*Related topics : Quantum Mechanics, Numerical Approach, Schrodinger Equation*
+
 Hiiiii, here is a project from Undying Cat to participate in National PhysiXHackathon 2026, about "how to solve eigen wavefunctions $\psi_n(x)$ and energy $E_n$ by giving any abitrary potential function $V(x)$
 
 [https://drive.google.com/file/d/18C9sSNQ54TvVTrHF0hQf0zJYmdhw4jGT/view?usp=sharing]
